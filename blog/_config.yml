@@ -8,4 +8,4 @@ twitter_username: doom-weekly
 github_username: doom-weekly 
 
 # Build settings
-markdown: kramdown
+markdown: Maruku
