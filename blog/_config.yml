@@ -1,13 +1,11 @@
 # Site settings
-title:Doom-Weekly 
-email:quirkyvar@gmail.com 
-description: '「要死了要死了」周刊 ！ 每周必有一死。Valar Morghulis' 
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+title: Doom-Weekly 
+email: quirkyvar@gmail.com
+description:  '「要死了要死了」周刊 ！ 每周必有一死。Valar Morghulis'
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://doom-weekly.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: doom-weekly 
+github_username: doom-weekly 
 
-# highlight
-highlighter: pygments
 # Build settings
 markdown: kramdown
